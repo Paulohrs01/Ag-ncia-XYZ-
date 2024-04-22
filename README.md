@@ -9,7 +9,6 @@ Desenvolvi a Landing Page com imagens e textos ilustrativos como exemplo para po
 
 <br>
 
-#
 ## Mobile:
 <img src="./src/images/readme-files/preview-mobile.png" height="350px" alt="imagem da home do projeto no mobile">
 
