@@ -1,4 +1,4 @@
-# Projeto para Personal Trainer 👨‍🔧
+# Projeto Ilustrativo Agência XYZ 👨‍🔧
 Desenvolvi a Landing Page com imagens e textos ilustrativos como exemplo para potenciais clientes interessados em ter um site profissional. A página inclui seções como Sobre, Serviços, Projetos, Contatos e Redes Sociais. 👨‍🔧
 
 <br>
