@@ -5,7 +5,7 @@ Desenvolvi a Landing Page com imagens e textos ilustrativos como exemplo para po
 
 ## Demonstração da seção home em desktop:
 
-[<img src="./src/images/readme-files/preview-desktop.png" height="300px" alt="imagem da home do projeto no desktop">](https://paulohrs01.github.io/landing-page-com-grid-agencia-xyz/)
+[<img src="./src/images/readme-files/preview-desktop.png" height="300px" alt="imagem da home do projeto no desktop">](https://paulohrs01.github.io/Agencia-XYZ/)
 
 <br>
 
@@ -14,8 +14,6 @@ Desenvolvi a Landing Page com imagens e textos ilustrativos como exemplo para po
 
 <br>
 
-
-#
 ## Tecnologias utilizadas:
 - HTML
 - CSS
